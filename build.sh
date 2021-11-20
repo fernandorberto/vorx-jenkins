@@ -3,4 +3,4 @@
 echo "============="
 echo "---Building Docker image Vox Company---"
 echo "============="
-docker-compose build --no-cache
+sudo docker-compose build --no-cache
